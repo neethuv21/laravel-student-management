@@ -32,3 +32,14 @@
 #### Can View Notes.
 #### Can view Timetable.
 #### Can view Teachers contact details.
+
+### SCREENSHOTS
+
+<img src="https://user-images.githubusercontent.com/100218126/179903503-5735255a-3c29-40a5-bb13-477c72e578ef.JPG" width="400" height="200" />
+<img src="https://user-images.githubusercontent.com/100218126/179903655-f8c22fc0-8811-4314-ba3a-ee15f9f2d968.JPG" width="400" height="200" />
+<img src="https://user-images.githubusercontent.com/100218126/179903856-dff9614f-942d-4d23-b23e-8ef8c50bb58c.JPG" width="400" height="200" />
+
+
+
+
+
