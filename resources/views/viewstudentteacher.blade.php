@@ -1,8 +1,10 @@
 @extends('teacherheader');
 @section('teacherbody');
 <!--Table--><link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-  
-    <h2  style="margin-top:10px; font-style: italic;margin-left: 480px;">Time Table</h2>
+ 
+      <h2  style="margin-top:10px; font-style: italic;margin-left: 530px;">Student Details</h2>
+     
+
 <table class="table table-striped w-auto" style="height: 400px;margin-left: 450px;">
 
   <!--Table head-->

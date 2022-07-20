@@ -316,7 +316,7 @@ public function viewtmetable(){
        }
        public function viewstudentteacher(){
         $data['result']=$this->obj->viewtchrdata('students');
-        return view('viewstudent',$data);
+        return view('viewstudentteacher',$data);
        }
 
 
