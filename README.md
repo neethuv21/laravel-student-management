@@ -1,5 +1,18 @@
-## A school management software is a collection of computer instructions, specially designed to manage the day-to-day administrative tasks of schools. School management software allow schools to digitally monitor the daily activities along with managing all the resources and information on a single platform.
+## School Management System Project Built In Laravel.
 
+#### A school management software is a collection of computer instructions, specially designed to manage the day-to-day administrative tasks of schools. School management software allow schools to digitally monitor the daily activities along with managing all the resources and information on a single platform.
+
+ADMIN LOGIN
+
+Email:admin@gmail.com
+
+Password:admin
+
+TEACHER LOGIN
+
+Email:neethu@gmail.com
+
+Password:teacher
 
 
 ### There are Three types of users:
